@@ -56,7 +56,7 @@ Want to add a project? Open an issue or start a new project board in the repo an
 3. Following induction, candidates must pass a short membership **interview**; passing the interview is required to become a registered member.
 4. Students who missed the induction window in their 2nd year are not eligible to join later as new members.
 5. Keep an eye on official announcements for induction dates; we update the `induction/` and `events/` sections with schedules and signup links.
-6. After successfully completing induction and the interview, introduce yourself on our Discord/Telegram (link below) or send an email, then pick a project or join a workshop.
+6. After successfully completing induction and the interview, follow our socials and send an email, then pick a project or join a workshop.
 
 Pro tip: Bring a laptop and some enthusiasm. We’ll help with parts and tools during build sessions.
 
@@ -91,7 +91,7 @@ We maintain a respectful, inclusive atmosphere. Harassment and discrimination ar
 
 ## Visit Our Website
 
-🌐 [https://roboticsclubpantnagar.vercel.app](https://roboticsclubpantnagar.vercel.app)
+🌐 [https://the-robotic-club-pantnagar.vercel.app](https://the-robotic-club-pantnagar.vercel.app)
 
 ---
 
@@ -107,26 +107,21 @@ We maintain a respectful, inclusive atmosphere. Harassment and discrimination ar
 
 ## Contact & Socials
 
-- **Club Coordinators:** Prof. [Name] — coordinator@example.edu
-- **Email:** roboticsclub@gbpuat.edu.in (replace with official mail)
-- **Discord / Telegram:** Invite link (update when available)
-- **Instagram / Twitter:** @RC_GBPUAT (optional — update with real handles)
+- **Club Coordinator:** Prof. Ravi Saxena — saxenaravieed@gmail.com
+- **Email:** roboticsclub7@gmail.com
+- **Instagram :** @theroboticsclub
 
 ---
 
 ## Sponsors & Partners
 
-We partner with campus labs and local industry for parts and mentorship. If you or your organization would like to support us, please contact the coordinators.
+We partner with campus labs and local industry for parts and mentorship. If you or your organization would like to support us, please contact the coordinator.
 
 ---
 
 ## Acknowledgements
 
 Thanks to the College of Technology and our faculty mentors for supporting student innovation and making hands-on learning possible.
-
----
-
-If you'd like, I can add a badge bar, a contributors section, or auto-generate a starter `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md`. Tell me which you'd like next.
 
 ---
 
